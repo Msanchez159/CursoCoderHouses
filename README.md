@@ -6,6 +6,6 @@ Alumno: Mariano Sanchez
 
 Curso: Data Science I
 
-Comision: 73245
+Comision: 84930
 
 Profesor: Jorge ruiz
